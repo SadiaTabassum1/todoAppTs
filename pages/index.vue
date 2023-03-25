@@ -1,6 +1,7 @@
 <template>
-  <div class="bg-red-100">
-    test
+  <div class="bg-white w-screen h-screen flex flex-col">
+     <header-component />
+     <list-wrapper />
   </div>
 </template>
 

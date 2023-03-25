@@ -15,7 +15,9 @@
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
-    "vue-template-compiler": "^2.7.10"
+    "vue-template-compiler": "^2.7.10",
+    "vuex-class": "^0.3.1",
+    "vuex-module-decorators": "^0.9.8"
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.8",
@@ -30,7 +32,8 @@
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
     "ts-jest": "^29.0.3",
-    "vue-jest": "^3.0.4"
+    "vue-jest": "^3.0.4",
+    "@supabase/supabase-js": "^2.8.0"
   },
   "resolutions": {
     "@nuxt/kit": "3.0.0-rc.13"
